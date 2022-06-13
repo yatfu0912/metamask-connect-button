@@ -7,3 +7,7 @@ After open the file, use npm start to run the app.
 
 npm install  
 npm start
+
+
+![Screenshot](iShot1.png)
+![Screenshot](iShot2.png)
