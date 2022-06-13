@@ -1,4 +1,4 @@
 ## How to use
 
-**npm install**
+npm install  
 npm start
